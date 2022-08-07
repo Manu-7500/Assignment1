@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(21, 145, 222);
+    width: 100%;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 10%;
+}
+
+button {
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(0, 187, 255);
+    padding: 10px;
+    font-weight: bold;
+    font-size: x-large;
+    border: transparent;
+
+}
+
+
+
+.emailline {
+    text-align: center;
+    margin-top: 3%;
+}
+
+#email {
+    text-align: center;
+    border: none;
+    padding: 5px;
+    width: 20%;
+    background-color: transparent;
+    border-bottom: solid white;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.password {
+    text-align: center;
+    margin-top: 2%;
+}
+
+#password {
+    text-align: center;
+    border: none;
+    padding: 5px;
+    width: 20%;
+    background-color: transparent;
+    border-bottom: solid white;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+#nextbutton {
+    text-align: center;
+    margin-top: 3%;
+}
+
+#create {
+    text-align: center;
+    border: none;
+    padding: 5px;
+    width: 20%;
+    background-color: transparent;
+    border-bottom: solid white;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.accountcreate {
+    text-align: center;
+    margin-top: 3%;
+}
